@@ -4,26 +4,51 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a7c15d6c-0c08-4f1b-abff-572b52cb56a1" name="Changes" comment="Лаба 2,3,4,5">
-      <change afterPath="$PROJECT_DIR$/src/Timus/t1018.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Timus/t1108.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Timus/t1293.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Timus/t1864.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Timus/t1869.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Timus/t1880.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Timus/t1881.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Timus/t1910.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Timus/t1964.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex6/ex1/MyClass1.java" afterDir="false" />
+    <list default="true" id="a7c15d6c-0c08-4f1b-abff-572b52cb56a1" name="Changes" comment="Тимус">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Timus/t1007.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Timus/t1009.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Timus/t1051.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Timus/t1068.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Timus/t1082.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Timus/t1209.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Timus/t1264.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Timus/t1349.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Timus/t1409.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Timus/t1785.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Timus/t1820.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/ex6/ex1/ex1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex6/ex1/ex1_main.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/ex6/ex2.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/ex6/ex3.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/ex6/ex4.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/ex6/ex5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex6/ex6/MyClass1.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/ex6/ex6/ex6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex6/ex6/exm6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex6/ex7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex6/ex8/ex8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex6/ex8/exm8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex6/ex9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex7/ex1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex7/ex2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex7/ex3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex7/ex4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex7/ex5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex8/ex2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex8/ex3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex8/primer/ex1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex8/primer/ex10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex8/primer/ex2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex8/primer/ex3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex8/primer/ex4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex8/primer/ex5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex8/primer/ex6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex8/primer/ex7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex8/primer/ex8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex8/primer/ex9.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ex6/ex1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex7/primer.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,13 +85,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.customizations&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.t1018">
-    <configuration name="ex1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex6.ex1" />
+  <component name="RunManager" selected="Application.ex8">
+    <configuration name="ex4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex7.ex4" />
       <module name="Laba" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex6.*" />
+          <option name="PATTERN" value="ex7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -74,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ex6.ex1.ex1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex6.ex1.ex1" />
+    <configuration name="ex5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex7.ex5" />
       <module name="Laba" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex6.ex1.*" />
+          <option name="PATTERN" value="ex7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,12 +112,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="t1018" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Timus.t1018" />
+    <configuration name="ex8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex8.primer.ex8" />
       <module name="Laba" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Timus.*" />
+          <option name="PATTERN" value="ex8.primer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,12 +125,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="t1108" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Timus.t1108" />
+    <configuration name="ex8.ex2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex8.ex2" />
       <module name="Laba" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Timus.*" />
+          <option name="PATTERN" value="ex8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,12 +138,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="t1880" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Timus.t1880" />
+    <configuration name="ex8.ex3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex8.ex3" />
       <module name="Laba" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Timus.*" />
+          <option name="PATTERN" value="ex8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,11 +153,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.t1018" />
-        <item itemvalue="Application.t1108" />
-        <item itemvalue="Application.t1880" />
-        <item itemvalue="Application.ex6.ex1.ex1" />
-        <item itemvalue="Application.ex1" />
+        <item itemvalue="Application.ex8" />
+        <item itemvalue="Application.ex8.ex3" />
+        <item itemvalue="Application.ex8.ex2" />
+        <item itemvalue="Application.ex5" />
+        <item itemvalue="Application.ex4" />
       </list>
     </recent_temporary>
   </component>
@@ -159,7 +184,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671459734250</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Тимус">
+      <created>1672901523886</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1672901523886</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -176,10 +208,55 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Лаба 1" />
     <MESSAGE value="Лаба 2,3,4,5" />
-    <option name="LAST_COMMIT_MESSAGE" value="Лаба 2,3,4,5" />
+    <MESSAGE value="Тимус" />
+    <option name="LAST_COMMIT_MESSAGE" value="Тимус" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ex8/primer/ex6.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$PROJECT_DIR$/../../../../Program Files/Java/jdk-17.0.5/lib/src.zip!/java.base/java/util/Scanner.java</url>
+          <line>1643</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ex8/primer/ex7.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.util.NoSuchElementException" package="java.util" />
+          <option name="timeStamp" value="4" />
+        </breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/ex8/primer/ex8.java</url>
+          <line>6</line>
+          <properties class="ex8.primer.ex8" method="readAllByByte">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="word" />
+      </configuration>
+    </watches-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
     <select />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/git$ex7.ic" NAME="ex7 Coverage Results" MODIFIED="1673378819834" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>ex8.primer.*</FILTER>
+    </SUITE>
   </component>
 </project>
