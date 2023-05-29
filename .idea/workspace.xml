@@ -4,61 +4,195 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a7c15d6c-0c08-4f1b-abff-572b52cb56a1" name="Changes" comment="Тимус">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Timus/t1007.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Timus/t1009.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Timus/t1051.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Timus/t1068.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Timus/t1082.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Timus/t1209.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Timus/t1264.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Timus/t1349.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Timus/t1409.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Timus/t1785.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Timus/t1820.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex6/ex1/ex1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex6/ex1/ex1_main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex6/ex2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex6/ex3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex6/ex4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex6/ex5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex6/ex6/ex6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex6/ex6/exm6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex6/ex7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex6/ex8/ex8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex6/ex8/exm8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex6/ex9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex7/ex1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex7/ex2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex7/ex3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex7/ex4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex7/ex5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex8/ex2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex8/ex3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex8/primer/ex1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex8/primer/ex10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex8/primer/ex2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex8/primer/ex3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex8/primer/ex4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex8/primer/ex5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex8/primer/ex6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex8/primer/ex7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex8/primer/ex8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex8/primer/ex9.java" afterDir="false" />
+    <list default="true" id="a7c15d6c-0c08-4f1b-abff-572b52cb56a1" name="Changes" comment="Лабы 6,7,8">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/apache_poi_ooxml.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/json_simple_1_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/jsoup_1_16_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/poi_3_12_20150511.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/poi_examples_3_12_20150511.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sem1/OPD/LR3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sem1/OPD/LR5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sem1/ex7/test/exTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sem1/ex7/test/subClassTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sem1/ex7/test/superClassTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sem1/ex7/test2/exTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sem1/ex7/test2/subClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sem1/ex7/test2/superClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sem1/ex7/test3/exTest3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sem1/ex7/test3/subClass1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sem1/ex7/test3/subClass2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sem1/ex7/test3/superClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sem1/ex7/test4/exTest4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sem1/ex7/test4/subClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sem1/ex7/test4/subClass2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sem1/ex7/test4/superClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sem1/ex7/test5/exTest5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sem1/ex7/test5/subClass1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sem1/ex7/test5/subClass2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sem1/ex7/test5/superClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sem2/Timus/t1001.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sem2/Timus/t1005.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sem2/Timus/t1012.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sem2/Timus/t1017.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sem2/Timus/t1036.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sem2/Timus/t1048.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sem2/Timus/t1079.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sem2/Timus/t1111.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sem2/Timus/t1113.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sem2/Timus/t1135.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sem2/lr10/ex1/CreateXMLFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sem2/lr10/ex1/DeleteKniga.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sem2/lr10/ex1/KnigaSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sem2/lr10/ex1/NewKniga.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sem2/lr10/ex1/XmlParser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sem2/lr10/ex2/DeleteKniga.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sem2/lr10/ex2/JsonCreator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sem2/lr10/ex2/JsonParser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sem2/lr10/ex2/KnigaSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sem2/lr10/ex2/NewKniga.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sem2/lr10/ex3/LinkParser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sem2/lr10/ex3/NewsParser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sem2/lr10/ex3/info.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sem2/lr10/ex4/ReadExcelFileExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sem2/lr10/ex4/WriteExcelFileExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sem2/lr12/ex1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sem2/lr12/ex2_10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sem2/lr13/ex1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sem2/lr13/ex2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sem2/lr13/ex3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sem2/lr13/ex4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sem2/lr13/ex5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sem2/lr13/ex6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sem2/lr13/primer/pr1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sem2/lr13/primer/pr2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sem2/lr13/primer/pr3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sem2/lr9/Task1/ex1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sem2/lr9/Task1/ex10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sem2/lr9/Task1/ex11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sem2/lr9/Task1/ex12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sem2/lr9/Task1/ex13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sem2/lr9/Task1/ex14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sem2/lr9/Task1/ex2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sem2/lr9/Task1/ex3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sem2/lr9/Task1/ex4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sem2/lr9/Task1/ex5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sem2/lr9/Task1/ex6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sem2/lr9/Task1/ex7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sem2/lr9/Task1/ex8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sem2/lr9/Task1/ex9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sem2/lr9/Task2/ex1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sem2/lr9/Task2/ex2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sem2/lr9/Task2/ex3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex6/ex1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex7/primer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laba.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Laba.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex2/ex1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sem1/Ex2/ex1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex2/ex2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sem1/Ex2/ex2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex2/ex3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sem1/Ex2/ex3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex2/ex4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sem1/Ex2/ex4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex2/ex5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sem1/Ex2/ex5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Example1/Example1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sem1/Example1/Example1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Example1/Example2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sem1/Example1/Example2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Example1/Example3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sem1/Example1/Example3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Example1/Example4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sem1/Example1/Example4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Example1/Example5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sem1/Example1/Example5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Example1/SRS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sem1/Example1/SRS.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Example1/Srs10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sem1/Example1/Srs10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Example1/Srs5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sem1/Example1/Srs5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Example1/srs2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sem1/Example1/srs2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Example1/srs3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sem1/Example1/srs3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Example1/srs4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sem1/Example1/srs4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Example1/srs6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sem1/Example1/srs6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Example1/srs7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sem1/Example1/srs7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Example1/srs8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sem1/Example1/srs8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Example1/srs9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sem1/Example1/srs9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Timus/t1007.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sem1/Timus/t1007.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Timus/t1009.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sem1/Timus/t1009.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Timus/t1018.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sem1/Timus/t1018.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Timus/t1051.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sem1/Timus/t1051.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Timus/t1068.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sem1/Timus/t1068.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Timus/t1082.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sem1/Timus/t1082.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Timus/t1108.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sem1/Timus/t1108.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Timus/t1209.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sem1/Timus/t1209.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Timus/t1264.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sem1/Timus/t1264.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Timus/t1293.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sem1/Timus/t1293.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Timus/t1349.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sem1/Timus/t1349.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Timus/t1409.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sem1/Timus/t1409.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Timus/t1785.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sem1/Timus/t1785.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Timus/t1820.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sem1/Timus/t1820.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Timus/t1864.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sem1/Timus/t1864.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Timus/t1869.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sem1/Timus/t1869.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Timus/t1880.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sem1/Timus/t1880.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Timus/t1881.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sem1/Timus/t1881.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Timus/t1910.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sem1/Timus/t1910.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Timus/t1964.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sem1/Timus/t1964.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex3/ex1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sem1/ex3/ex1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex3/ex10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sem1/ex3/ex10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex3/ex2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sem1/ex3/ex2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex3/ex3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sem1/ex3/ex3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex3/ex4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sem1/ex3/ex4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex3/ex5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sem1/ex3/ex5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex3/ex6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sem1/ex3/ex6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex3/ex7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sem1/ex3/ex7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex3/ex8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sem1/ex3/ex8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex3/ex9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sem1/ex3/ex9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex4/ex1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sem1/ex4/ex1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex4/ex2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sem1/ex4/ex2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex4/ex3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sem1/ex4/ex3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex4/ex4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sem1/ex4/ex4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex4/ex5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sem1/ex4/ex5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex4/ex6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sem1/ex4/ex6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex4/ex7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sem1/ex4/ex7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex4/ex8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sem1/ex4/ex8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex4/ex9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sem1/ex4/ex9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex5/ex1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sem1/ex5/ex1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex5/ex2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sem1/ex5/ex2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex5/ex3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sem1/ex5/ex3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex5/ex4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sem1/ex5/ex4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex5/ex5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sem1/ex5/ex5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex5/ex6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sem1/ex5/ex6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex6/ex1/ex1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sem1/ex6/ex1/ex1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex6/ex1/ex1_main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sem1/ex6/ex1/ex1_main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex6/ex2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sem1/ex6/ex2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex6/ex3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sem1/ex6/ex3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex6/ex4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sem1/ex6/ex4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex6/ex5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sem1/ex6/ex5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex6/ex6/ex6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sem1/ex6/ex6/ex6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex6/ex6/exm6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sem1/ex6/ex6/exm6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex6/ex7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sem1/ex6/ex7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex6/ex8/ex8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sem1/ex6/ex8/ex8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex6/ex8/exm8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sem1/ex6/ex8/exm8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex6/ex9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sem1/ex6/ex9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex7/ex1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sem1/ex7/ex1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex7/ex2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sem1/ex7/ex2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex7/ex3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sem1/ex7/ex3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex7/ex4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sem1/ex7/ex4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex7/ex5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sem1/ex7/ex5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex8/ex2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sem1/ex8/ex2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex8/ex3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sem1/ex8/ex3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex8/primer/ex1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sem1/ex8/primer/ex1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex8/primer/ex10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sem1/ex8/primer/ex10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex8/primer/ex2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sem1/ex8/primer/ex2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex8/primer/ex3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sem1/ex8/primer/ex3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex8/primer/ex4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sem1/ex8/primer/ex4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex8/primer/ex5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sem1/ex8/primer/ex5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex8/primer/ex6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sem1/ex8/primer/ex6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex8/primer/ex7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sem1/ex8/primer/ex7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex8/primer/ex8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sem1/ex8/primer/ex8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex8/primer/ex9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sem1/ex8/primer/ex9.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="package-info" />
       </list>
     </option>
   </component>
@@ -78,20 +212,49 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;true&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/assur/Desktop&quot;,
+    &quot;ToolWindowRun.ShowToolbar&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/assur/Downloads/poi-scratchpad-3.12-20150511.jar&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.37931034&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.customizations&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;XML&quot;
+    ]
   }
 }</component>
-  <component name="RunManager" selected="Application.ex8">
-    <configuration name="ex4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex7.ex4" />
+  <component name="RunManager" selected="Application.ex4">
+    <configuration name="ExcelPhoneBook" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="17" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="ExcelPhoneBook" />
+      <module name="Laba" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Laba" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WriteExcelFileExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sem2.lr10.ex4.WriteExcelFileExample" />
       <module name="Laba" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex7.*" />
+          <option name="PATTERN" value="sem2.lr10.ex4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,12 +262,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ex5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex7.ex5" />
+    <configuration name="ex1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sem2.lr12.ex1" />
       <module name="Laba" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex7.*" />
+          <option name="PATTERN" value="sem2.lr12.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,12 +275,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ex8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex8.primer.ex8" />
+    <configuration name="ex2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sem2.lr12.ex2" />
       <module name="Laba" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex8.primer.*" />
+          <option name="PATTERN" value="sem2.lr12.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,12 +288,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ex8.ex2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex8.ex2" />
+    <configuration name="ex2_10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sem2.lr12.ex2_10" />
       <module name="Laba" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex8.*" />
+          <option name="PATTERN" value="sem2.lr12.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -138,12 +301,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ex8.ex3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex8.ex3" />
+    <configuration name="ex4" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sem1.ex7.ex4" />
       <module name="Laba" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex8.*" />
+          <option name="PATTERN" value="sem1.ex7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="t1001" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sem2.Timus.t1001" />
+      <module name="Laba" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sem2.Timus.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -153,11 +329,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ex8" />
-        <item itemvalue="Application.ex8.ex3" />
-        <item itemvalue="Application.ex8.ex2" />
-        <item itemvalue="Application.ex5" />
-        <item itemvalue="Application.ex4" />
+        <item itemvalue="Application.t1001" />
+        <item itemvalue="Application.ex2_10" />
+        <item itemvalue="Application.ex2" />
+        <item itemvalue="Application.ex1" />
+        <item itemvalue="Application.WriteExcelFileExample" />
       </list>
     </recent_temporary>
   </component>
@@ -191,7 +367,21 @@
       <option name="project" value="LOCAL" />
       <updated>1672901523886</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Тимус">
+      <created>1673513283500</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1673513283500</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Лабы 6,7,8">
+      <created>1673513330021</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1673513330021</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -209,13 +399,14 @@
     <MESSAGE value="Лаба 1" />
     <MESSAGE value="Лаба 2,3,4,5" />
     <MESSAGE value="Тимус" />
-    <option name="LAST_COMMIT_MESSAGE" value="Тимус" />
+    <MESSAGE value="Лабы 6,7,8" />
+    <option name="LAST_COMMIT_MESSAGE" value="Лабы 6,7,8" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/ex8/primer/ex6.java</url>
+          <url>file://$PROJECT_DIR$/src/sem1/ex8/primer/ex6.java</url>
           <line>8</line>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
@@ -225,22 +416,22 @@
           <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/ex8/primer/ex7.java</url>
-          <line>7</line>
-          <option name="timeStamp" value="7" />
+          <url>file://$PROJECT_DIR$/src/sem1/ex8/primer/ex7.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="14" />
         </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.util.NoSuchElementException" package="java.util" />
           <option name="timeStamp" value="4" />
         </breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/ex8/primer/ex8.java</url>
+          <url>file://$PROJECT_DIR$/src/sem1/ex8/primer/ex8.java</url>
           <line>6</line>
-          <properties class="ex8.primer.ex8" method="readAllByByte">
+          <properties class="sem1.ex8.primer.ex8" method="readAllByByte">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
-          <option name="timeStamp" value="9" />
+          <option name="timeStamp" value="15" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
